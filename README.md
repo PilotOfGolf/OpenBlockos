@@ -3,9 +3,7 @@
 <h3>What is this?</h3>
 This is an open-source and free block toy form factor. The idea behind this is for things to be free and accessible for all. The parts are designed with people who have less-than-optimal printers. This way, tolerances don't have to be a problem. This is for people who want a "it just works" type of experience with this. 
 
-
-// Put the image here (once I figure out how to put an image in MD)
-
+![An image with some example prints of some of the OpenBlocko parts.]([https://assets.digitalocean.com/articles/alligator/boo.svg "a title](https://github.com/PilotOfGolf/OpenBlockos/blob/main/img/IMG_6021.jpg)")
 
 <h3>Specifications</h3>
 The parts are designed with the following specifications: 
