@@ -4,7 +4,7 @@
 This is an open-source and free block toy form factor. The idea behind this is for things to be free and accessible for all. The parts are designed with people who have less-than-optimal printers. This way, tolerances don't have to be a problem. This is for people who want a "it just works" type of experience with this. 
 
 
-// Put image here (once I figure out how to put an image in MD)
+// Put the image here (once I figure out how to put an image in MD)
 
 
 <h3>Specifications</h3>
@@ -24,6 +24,8 @@ Ideally, you should print the parts with a .2mm layer height, at least 2 walls, 
 
 Material-wise, this is interesting. I would recommend PETG to be safe, however, PLA will work. I would avoid using filaments with abrasives in them (GF, CF, Glow in the Dark, et. al.) as they could mess with how the Blockos fit by adding more friction. A famous block company uses ABS for their parts, however, they are also injection molded, therefore it is a little different. 
 
+Your printer <b>DOES</b> need to be tuned to print well. While you can use a lower-end printer, it still has to be tuned well for everything to work well. I am speaking from experience when I say this: tuning is important, not just for this, but any print where tolerances are tight at all. 
+
 <h3>Who is this for?</h3>
 On a more serious note, this project is supposed to bring fun 3D printing to a wider audience. The idea is to bring printing to younger children who enjoy playing with similar block toys, but allow them the opportunity for it to be:
 * More personalized, as parts can be made in minutes whatever desired color, and have endless possibilities for physical Blocko personalizations. 
@@ -37,3 +39,8 @@ The current focus right now is just putting out the files for as many Blockos as
 This repo has a rather complex file tree, but it makes sense in my mind, especially once I get more parts designed and things become more convoluted. 
 
 In essence, F3D and STL files are split from the very beginning. Their respective 'child' branches are exact duplicates in terms of their structure, and the only difference is the STL folder has the STL files and the F3D folder has the F3D files. I chose to upload F3D files as opposed to STEP files as this will make it a bit easier for people using Fusion, which is a common 'real' CAD that people use (and the one I use). 
+
+From the F3D/STL folder, the folders will be pretty descriptive, (ie 1x, 2x, baseplates, etc). If they aren't clear to you, you can go to the STL version of the folder and view the files, since GitHub has a built-in STL viewer. 
+
+<h3>Final Thoughts</h3>
+This is a passion project, so there are no guarantees anything will work. I am doing this out of my passion for CAD, printing, and to educate people about the former. 
