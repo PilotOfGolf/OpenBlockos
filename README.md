@@ -36,9 +36,9 @@ The current focus right now is just putting out the files for as many Blockos as
 <h3>About the File Directory</h3>
 This repo has a rather complex file tree, but it makes sense in my mind, especially once I get more parts designed and things become more convoluted. 
 
-In essence, F3D and STL files are split from the very beginning. Their respective 'child' branches are exact duplicates in terms of their structure, and the only difference is the STL folder has the STL files and the F3D folder has the F3D files. I chose to upload F3D files as opposed to STEP files as this will make it a bit easier for people using Fusion, which is a common 'real' CAD that people use (and the one I use). 
+In essence, STEP and STL files are split from the very beginning. Their respective 'child' branches are exact duplicates in terms of their structure, and the only difference is the STL folder has the STL files and the STEP folder has the STEP files. 
 
-From the F3D/STL folder, the folders will be pretty descriptive, (ie 1x, 2x, baseplates, etc). If they aren't clear to you, you can go to the STL version of the folder and view the files, since GitHub has a built-in STL viewer. 
+From the STEP/STL folder, the folders will be pretty descriptive, (ie 1x, 2x, baseplates, etc). If they aren't clear to you, you can go to the STL version of the folder and view the files, since GitHub has a built-in STL viewer. 
 
 <h3>Final Thoughts</h3>
 This is a passion project, so there are no guarantees anything will work. I am doing this out of my passion for CAD, printing, and to educate people about the former. 
